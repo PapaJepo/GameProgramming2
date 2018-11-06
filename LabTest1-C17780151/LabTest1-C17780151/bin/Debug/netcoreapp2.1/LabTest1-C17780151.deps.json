@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LabTest1-C17780151/1.0.0": {
+        "runtime": {
+          "LabTest1-C17780151.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabTest1-C17780151/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

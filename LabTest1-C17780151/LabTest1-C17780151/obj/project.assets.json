@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\LabTest1-C17780151\\LabTest1-C17780151\\LabTest1-C17780151.csproj",
+      "projectUniqueName": "D:\\Connor\\Documents\\GameProgramming2\\LabTest1-C17780151\\LabTest1-C17780151\\LabTest1-C17780151.csproj",
       "projectName": "LabTest1-C17780151",
-      "projectPath": "D:\\source\\repos\\LabTest1-C17780151\\LabTest1-C17780151\\LabTest1-C17780151.csproj",
+      "projectPath": "D:\\Connor\\Documents\\GameProgramming2\\LabTest1-C17780151\\LabTest1-C17780151\\LabTest1-C17780151.csproj",
       "packagesPath": "C:\\Users\\Connor\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\LabTest1-C17780151\\LabTest1-C17780151\\obj\\",
+      "outputPath": "D:\\Connor\\Documents\\GameProgramming2\\LabTest1-C17780151\\LabTest1-C17780151\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

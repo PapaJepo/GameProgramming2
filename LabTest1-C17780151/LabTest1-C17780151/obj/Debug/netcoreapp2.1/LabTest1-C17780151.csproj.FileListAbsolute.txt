@@ -1,0 +1,11 @@
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\bin\Debug\netcoreapp2.1\LabTest1-C17780151.deps.json
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\bin\Debug\netcoreapp2.1\LabTest1-C17780151.runtimeconfig.json
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\bin\Debug\netcoreapp2.1\LabTest1-C17780151.runtimeconfig.dev.json
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\bin\Debug\netcoreapp2.1\LabTest1-C17780151.dll
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\bin\Debug\netcoreapp2.1\LabTest1-C17780151.pdb
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\obj\Debug\netcoreapp2.1\LabTest1-C17780151.csprojAssemblyReference.cache
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\obj\Debug\netcoreapp2.1\LabTest1-C17780151.csproj.CoreCompileInputs.cache
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\obj\Debug\netcoreapp2.1\LabTest1-C17780151.AssemblyInfoInputs.cache
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\obj\Debug\netcoreapp2.1\LabTest1-C17780151.AssemblyInfo.cs
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\obj\Debug\netcoreapp2.1\LabTest1-C17780151.dll
+D:\Connor\Documents\GameProgramming2\LabTest1-C17780151\LabTest1-C17780151\obj\Debug\netcoreapp2.1\LabTest1-C17780151.pdb
